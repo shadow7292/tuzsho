@@ -1,8 +1,8 @@
 <?php
-$servername = "142.171.153.18";
-$username = "a7669371_tuzshop";
+$servername = "37.27.108.55";
+$username = "cdmpejek_tuzshop";
 $password = "729288@TuzShop$";
-$dbname = "a7669371_tuzshop";
+$dbname = "cdmpejek_tuzshop";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
